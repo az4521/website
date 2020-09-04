@@ -2,7 +2,7 @@
 layout: ForkPage
 title: TachiyomiAZ
 metaTitle: TachiyomiAZ
-description: This hentai focused fork is based off of TachiyomiEH, it has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K.
+description: This fork is based off of TachiyomiEH, it has most features and fixes from Tachiyomi, TachiyomiJ2K, and TachiyomiSY. It features the old tachiyomi UI with new updates.
 lang: en-US
 meta:
   - property: og:image
